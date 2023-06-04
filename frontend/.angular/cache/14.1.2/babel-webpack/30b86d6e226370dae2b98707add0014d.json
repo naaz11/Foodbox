@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function noop() {}","map":{"version":3,"names":["noop"],"sources":["C:/Users/Ameer/Documents/naaz-codes/simplilearn_7/downloaded_codes/Phase 5 Capstone - Food Box/frontend/node_modules/rxjs/dist/esm/internal/util/noop.js"],"sourcesContent":["export function noop() { }\n"],"mappings":"AAAA,OAAO,SAASA,IAAT,GAAgB,CAAG"},"metadata":{},"sourceType":"module"}

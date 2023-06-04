@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\Ameer\Documents\naaz-codes\simplilearn_7\downloaded_codes\Phase 5 Capstone - Food Box\backend\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+1865797976.index
+3091848564.index
